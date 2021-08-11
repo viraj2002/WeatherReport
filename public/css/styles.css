@@ -1,0 +1,12 @@
+.container{
+  margin-top: 200px;
+}
+.btn-default{
+  background-color: orange;
+  width:100px;
+  padding:12.5px;
+}
+.form-control{
+  padding:25px;
+  font-size: 20px;
+}
